@@ -31,8 +31,8 @@ class _HomeScreenState extends State<HomeScreen> {
     "https://raw.githubusercontent.com/MartinezI128/img-muebleriaIrams/main/Imagenes/sillass.jpg",
   ];
   List<String> buttonList02 = [
-    "https://raw.githubusercontent.com/MartinezI128/img-muebleriaIrams/main/Imagenes/image.png",
-    "https://raw.githubusercontent.com/MartinezI128/img-muebleriaIrams/main/Imagenes/image.png",
+    "https://raw.githubusercontent.com/MartinezI128/img-muebleriaIrams/main/Imagenes/comedorr.png",
+    "https://raw.githubusercontent.com/MartinezI128/img-muebleriaIrams/main/Imagenes/comedorr.png",
   ];
   List<String> buttonList03 = [
     "https://raw.githubusercontent.com/MartinezI128/img-muebleriaIrams/main/Imagenes/salaa.png",
